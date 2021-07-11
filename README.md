@@ -4,7 +4,7 @@ This is a simple implementation of a action recognition model using temporal seg
 
 Paper:https://paperswithcode.com/paper/temporal-segment-networks-for-action
 
-There are three different jupyter files. The TemporalSeg_RGB uses RGB images to recognize action, TemporalSeg_OpticalFlow uses optical flow images to recognize action and the last uses combined paper with both type of images to recognize action.
+There are three different jupyter files. The TemporalSeg_RGB uses RGB images to recognize action, TemporalSeg_OpticalFlow uses optical flow images to recognize action and the last uses combined set with both type of images to recognize action.
 
 # Get the videos
 
