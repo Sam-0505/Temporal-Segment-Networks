@@ -12,4 +12,6 @@ I have used one of the datasets mentioned in the official implementation of this
 
 HDMB51: http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
 
+# Dataset Presentation
+![](./output.png)
 
